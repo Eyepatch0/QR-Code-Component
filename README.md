@@ -51,6 +51,4 @@ Will add mobile view soon.
 
 - Frontend Mentor - [@Eyepatch0](https://www.frontendmentor.io/profile/Eyepatch0)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
