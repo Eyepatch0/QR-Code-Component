@@ -45,7 +45,7 @@ Flexbox layout , box shadow property
 Will add mobile view soon.
 
 ### Useful resources
-- [Example resource 2](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This is an amazing article which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
